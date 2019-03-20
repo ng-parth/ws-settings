@@ -11,9 +11,9 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>!*.sql</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
