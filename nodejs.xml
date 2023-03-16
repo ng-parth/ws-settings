@@ -9,6 +9,9 @@
     <local-interpreter path="/usr/local/Cellar/node/18.3.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="16.19.1" last-modified="1676564236000" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.17.0/bin/node">
       <version-cache last-modified="0" />
     </local-interpreter>
@@ -20,9 +23,6 @@
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.7/bin/node">
       <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="12.22.7" last-modified="1634021668000" />
     </local-interpreter>
   </component>
 </application>
