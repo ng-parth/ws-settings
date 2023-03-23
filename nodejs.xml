@@ -4,13 +4,10 @@
       <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/18.7.0/bin/node">
-      <version-cache version="18.7.0" last-modified="1660758500445" />
+      <version-cache last-modified="0" />
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/18.3.0/bin/node">
       <version-cache last-modified="0" />
-    </local-interpreter>
-    <local-interpreter path="/usr/local/bin/node">
-      <version-cache version="16.19.1" last-modified="1676564236000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v16.17.0/bin/node">
       <version-cache last-modified="0" />
@@ -20,6 +17,9 @@
     </local-interpreter>
     <local-interpreter path="/usr/local/Cellar/node/16.12.0/bin/node">
       <version-cache last-modified="0" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="14.21.3" last-modified="1676562991000" />
     </local-interpreter>
     <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.22.7/bin/node">
       <version-cache last-modified="0" />
